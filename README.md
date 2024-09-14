@@ -1,3 +1,3 @@
 # C2160
 
-This repository contains all the code and tasks I completed to pass the MUNI course [C2160 C Programming for Chemists]([https://is.muni.cz/auth/predmet/sci/jaro2024/C2160](www.seznam.cz).
+This repository contains all the code and tasks I completed to pass the MUNI course [Python Full Course for free 🐍](https://www.youtube.com/watch?v=ix9cRaBkVe0).
